@@ -1,0 +1,2 @@
+# This file takes precedence over the analysis environment's root uv.lock.
+-r ../requirements.txt
